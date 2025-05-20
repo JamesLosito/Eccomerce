@@ -181,7 +181,7 @@
     @include('components.navbar')
     <!-- Hero Section -->
     <div class="hero-section">
-        <img src="{{ asset('images/perfume.jpg') }}" class="hero-img" alt="Metro Essence Banner">
+        <img src="{{ asset('images/bg.jpg') }}" class="hero-img" alt="Metro Essence Banner">
         <div class="hero-content">
             <h1>ELEGANCE IN EVERY SCENT</h1>
             <p>Discover the essence of luxury with our exclusive perfume collection.</p>
